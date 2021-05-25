@@ -40,3 +40,13 @@
 .hash_select option {
 	font-weight:bold;
 }
+
+.activation_area{
+	background-color: rgba(97, 196, 196, 0.185);
+	overflow: hidden;
+	position: relative;
+}
+
+a.custom_btn.btn.btn-outline-dark.btn-rounded {
+	margin-top: 10px;
+}
